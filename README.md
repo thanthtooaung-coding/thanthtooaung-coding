@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Thant Htoo Aung</h1>
-<h3 align="center">A passionate software engineer.</h3>
+## Hi 👋, I'm Thant Htoo Aung</h1>
 
-![<thanthtooaung-coding>'s Stats](https://github-readme-stats.vercel.app/api?username=thanthtooaung-coding&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+> I am a Full-Stack Web Developer from Yangon, Myanmar. I am currently working on multiple projects at DIR-ACE Technology.
+
+---
+
+<p align="center">
+  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=thanthtooaung-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=thanthtooaung-coding&theme=react&hide_border=true">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanthtooaung-coding&label=Profile%20views&color=0e75b6&style=flat" alt="thanthtooaung-coding" /> </p>
-
-<br/>
 
 - 🔭 I’m currently working on **Social Networking System**
 
@@ -25,7 +29,7 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Reach me on</h3>
 <p align="left">
 <a href="https://app.daily.dev/vinn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/vinn" height="30" width="40" /> </a>
 <a href="https://x.com/VinnnDev" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/VinnnDev" height="30" width="40" /> </a>
@@ -35,7 +39,7 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔭 Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -54,6 +58,7 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/></a>   
 <a href="https://angular.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/access" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" alt="access" width="40" height="40"/> </a>
@@ -65,6 +70,7 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
 <br/>
