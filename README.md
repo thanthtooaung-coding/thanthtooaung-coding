@@ -22,13 +22,13 @@
 
 - 🔭 I’m currently working on **Stock Exchange Application**
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Project**
 
 - 👨‍💻 All of my projects are available at [https://thanthtooaung-portfolio.vercel.app](https://thanthtooaung-portfolio.vercel.app/)
 
-- 💬 Ask me about **Java, Spring Framework, Spring Boot, Go, MySQL, HTML, CSS, JavaScript, JQuery, TypeScript, Angular, React**
+- 💬 Ask me about **Java, Spring Framework, Go, MySQL, HTML, CSS, JavaScript, JQuery, TypeScript, Angular, React, Vuejs**
 
 - 📫 How to reach me **thanthtoo1285@gmail.com**
 
