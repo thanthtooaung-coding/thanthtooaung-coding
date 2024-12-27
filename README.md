@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Thant Htoo Aung</h1>
 
-> I am a Full-Stack Web Developer from Yangon, Myanmar. I am currently working on multiple projects at DIR-ACE Technology.
+> I am a Full-Stack Web Developer from Yangon, Myanmar. I am currently working on Microfinance projects at Myanmar Software Integrated Solutions.
 
 ---
 
@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanthtooaung-coding&label=Profile%20views&color=0e75b6&style=flat" alt="thanthtooaung-coding" /> </p>
 
-- 🔭 I’m currently working on **Stock Exchange Application**
+- 🔭 I’m currently working on **Mifos X solution**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
