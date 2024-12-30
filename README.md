@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Project**
 
-- 👨‍💻 All of my projects are available at [https://thanthtooaung-portfolio.vercel.app](https://thanthtooaung-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://thanthtooaung-portfolio.vercel.app](https://thanthtooaung-portfolio.vercel.app)
 
 - 💬 Ask me about **Java, Spring Framework, Go, MySQL, HTML, CSS, JavaScript, JQuery, TypeScript, Angular, React, Vuejs**
 
@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://app.daily.dev/vinn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/vinn" height="30" width="40" /> </a>
 <a href="https://x.com/VinnnDev" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/VinnnDev" height="30" width="40" /> </a>
-<a href="https://www.linkedin.com/in/thant-htoo-aung-b47374267/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thant-htoo-aung-b47374267/" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/thant-htoo-aung-/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thant-htoo-aung-/" height="30" width="40" /> </a>
 <a href="https://stackoverflow.com/users/22221665/vinn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22221665/vinn" height="30" width="40" /> </a>
 <a href="https://leetcode.com/u/Vinnn_96" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/u/Vinnn_96" height="30" width="40" /> </a>
 </p>
