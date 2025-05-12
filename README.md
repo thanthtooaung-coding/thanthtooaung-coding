@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thanthtooaung-coding/">
+  <a href="https://github.com/thanthtooaung-coding">
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanthtooaung-coding&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true"
       alt="thanthtooaung-coding :: Top Langs by repo" />
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanthtooaung-coding&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true"
