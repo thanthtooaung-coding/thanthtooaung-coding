@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Project**
 
-- 👨‍💻 All of my projects are available at [https://thanthtooaung-portfolio.vercel.app](https://thanthtooaung-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://thant-htoo-aung.vercel.app](https://thant-htoo-aung.vercel.app)
 
 - 💬 Ask me about **Java, Spring Framework, Go, MySQL, HTML, CSS, JavaScript, JQuery, TypeScript, Angular, React, Vuejs**
 
