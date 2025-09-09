@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Thant Htoo Aung</h1>
 
-> I am a Full-Stack Web Developer from Yangon, Myanmar. I am currently working on Microfinance projects at Myanmar Software Integrated Solutions.
+> I am a Full-Stack Web Developer from Yangon, Myanmar. I am currently working on Microfinance projects at Ideanet Solution Inc.
 
 ---
 
