@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Mifos X solution**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing and Ai Agents**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Project**
 
