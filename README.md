@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Thant Htoo Aung</h1>
 
-> I am a Full-Stack Web Developer from Bangkok, Thailand. I am currently working on Microfinance projects at Ideanet Solution Inc.
+> I am a Full-Stack Web Developer from Bangkok, Thailand. I am currently working on Jobonic at Laconic Cloud ERP.
 
 ---
 
@@ -20,15 +20,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanthtooaung-coding&label=Profile%20views&color=0e75b6&style=flat" alt="thanthtooaung-coding" /> </p>
 
-- 🔭 I’m currently working on **Mifos X solution**
+- 🔭 I’m currently working on **Jobonic**
 
 - 🌱 I’m currently learning **Cloud Computing and Ai Agents**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Project**
 
 - 👨‍💻 All of my projects are available at [https://thant-htoo-aung.vercel.app](https://thant-htoo-aung.vercel.app)
-
-- 💬 Ask me about **Java, Spring Framework, Go, MySQL, HTML, CSS, JavaScript, JQuery, TypeScript, Angular, React, Vuejs**
 
 - 📫 How to reach me **thanthtoo1285@gmail.com**
 
