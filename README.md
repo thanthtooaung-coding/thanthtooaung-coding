@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanthtooaung-coding&label=Profile%20views&color=0e75b6&style=flat" alt="thanthtooaung-coding" /> </p>
+<p align="center"> <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanthtooaung-coding&theme=react" alt="thanthtooaung-coding" /> </p>
 
 - 🔭 I’m currently working on **Jobonic**
 
