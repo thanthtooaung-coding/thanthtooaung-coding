@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Thant Htoo Aung</h1>
 
-> I am a Full-Stack Web Developer from Bangkok, Thailand. I am currently working on Jobonic at Laconic Cloud ERP.
+> I am a Full-Stack Web Developer from Bangkok, Thailand. I am currently working on Java Microservices at Laconic.
 
 ---
 
@@ -20,7 +20,7 @@
 
 <p align="center"> <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanthtooaung-coding&theme=react" alt="thanthtooaung-coding" /> </p>
 
-- 🔭 I’m currently working on **Jobonic**
+- 🔭 I’m currently working on **Laconic**
 
 - 🌱 I’m currently learning **Cloud Computing and Ai Agents**
 
