@@ -5,8 +5,8 @@
 ---
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanthtooaung-coding&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img width="45%" src ="https://github-readme-streak-stats.herokuapp.com/?user=thanthtooaung-coding&theme=react&hide_border=true">
+  <img width="45%" src="https://github-stats-extended.vercel.app/api?username=thanthtooaung-coding&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=thanthtooaung-coding&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
